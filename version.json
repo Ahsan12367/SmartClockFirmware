@@ -1,7 +1,8 @@
 {
     "firmware_version": "1.0.1",
     "firmware_url": "https://ahsan12367.github.io/SmartClockFirmware/firmware.bin",
-    "spiffs_version": "1.0.2",
+    "spiffs_version": "1.0.1",
     "spiffs_url": "https://ahsan12367.github.io/SmartClockFirmware/spiffs.bin"
 }
+
 
